@@ -1,4 +1,5 @@
 AuthType shibboleth
+ShibRequestSetting applicationId las.iastate.edu-shib.cloud-sp
 ShibRequestSetting requireSession 1
 Require shibboleth
 
